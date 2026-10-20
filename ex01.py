@@ -30,7 +30,6 @@ class Termometro:
 
 
 
-
 # --- TESTANDO O CÓDIGO ---
 # criando o objeto Termometro com temperatura inicial de 30°C
 meu_termometro = Termometro(30)  # Funciona (chama o setter)
